@@ -4,7 +4,15 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Project Name="MainScene.csd" Type="Scene" />
-        <Image Name="HelloWorld.png" />
+        <Image Name="bird.png" />
+        <Image Name="crab.png" />
+        <Image Name="eggs.png" />
+        <Image Name="logo.png" />
+        <Image Name="penguin.png" />
+        <Image Name="title.png" />
+        <Image Name="island.png" />
+        <Project Name="LogoScene.csd" Type="Scene" />
+        <Project Name="TitleScene.csd" Type="Scene" />
       </RootFolder>
     </Group>
   </SolutionFolder>
